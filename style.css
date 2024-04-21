@@ -1,0 +1,9 @@
+.container {
+    position: relative; /* Container for positioning the image */
+}
+
+#meme {
+    position: absolute; /* Container for positioning the image */
+    top: 50%; /* Initial top position */
+    left: 50%; /* Initial left position */
+}
